@@ -8,7 +8,7 @@ public class IndexController {
 
     @GetMapping("/")
     public String index() {
-        return "Hello Ooredoo";
+        return "Hello Ooredoo teams";
     }
 
 }
